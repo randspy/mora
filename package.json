@@ -1,0 +1,32 @@
+{
+  "name": "mora",
+  "version": "0.0.0",
+  "description": "Souce cose viewer based on logs.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/randspy/mora.git"
+  },
+  "devDependencies": {
+    "gulp": "~3.8.11"
+  },
+  "window": {
+    "toolbar": true,
+    "resizable": false,
+    "width": 1000,
+    "height": 600,
+    "min_width": 600,
+    "min_height": 400,
+    "max_width": 1000,
+    "max_height": 600,
+    "position": "center"
+  },
+  "author": "randspy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/randspy/mora/issues"
+  }
+}
